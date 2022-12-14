@@ -7,5 +7,6 @@ Currently, I am learning to program with Python.
 My current projects:
 
 - Level1Techs Devember 2022 | A work log submitter
+- Downloads Folder Organizer
 
 My README will expand as I become more experienced.
